@@ -1,0 +1,8 @@
+export { Header } from "./header"
+export { Hero } from "./hero"
+export { About } from "./about"
+export { Skills } from "./skills"
+export { Projects } from "./projects"
+export { AdvancedFeatures } from "./advanced-features"
+export { Contact } from "./contact"
+export { Footer } from "./footer"
