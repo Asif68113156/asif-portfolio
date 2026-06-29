@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This website showcases my skills, proj
 
 ## 🚀 Live Demo
 
-🔗 https://your-portfolio-link.com
+🔗 asif-portfolio-two.vercel.app
 
 ---
 
@@ -68,14 +68,6 @@ Portfolio/
 
 ---
 
-## 📷 Screenshots
-
-(Add screenshots of your portfolio here)
-
-Example:
-
-![Home Page](images/home.png)
-
 ---
 
 ## 💼 Projects Included
@@ -99,13 +91,12 @@ Master of Computer applications
 
 📱 Phone: +91 9834906417
 
-🌐 Portfolio: https://your-portfolio-link.com
+🌐 Portfolio: asif-portfolio-two.vercel.app
 
-💼 LinkedIn:
-https://linkedin.com/in/your-profile
+
 
 🐙 GitHub:
-https://github.com/yourusername
+https://github.com/Asif68113156
 
 ---
 
